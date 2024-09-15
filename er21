@@ -1,6 +1,64 @@
-<!Doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
 <body>
-<title>Blah Blah This is a test<title>
+<title>Blah Blah This is a test</title>
+</head>
 <h1>Hello. This is a turtle i guess</h1>
+<img src="facts-turtles.webp" alt="Turtle Time" width="1000" height="1232">
+<a href="https://www.49ers.com/">This is a random website; click on this link</a>
+<p>I guess I'll have something in here<br>Turtles and stars might seem worlds apart, but they both capture our imagination in their own unique ways. Turtles, with their ancient, steady presence, have long been symbols of wisdom, endurance, and protection in various cultures. They carry their homes on their backs, embodying a deep connection to the earth and a slow, deliberate pace through life.
+
+Stars, on the other hand, sparkle from the vast expanse of the cosmos, representing dreams, hopes, and the endless possibilities of the universe. They light up the night sky, guiding sailors and dreamers alike, and remind us of the infinite scope of the universe and our place within it.
+
+Imagine a turtle looking up at the night sky, its eyes reflecting the twinkling stars above. In that moment, the turtle's calm, grounded nature meets the stars' boundless, shimmering beauty. It's a reminder that no matter how small we might feel in the grand scheme of things, both our steady journey through life and the vast, distant dreams we chase are part of a much larger, interconnected whole.</p>
+<hr>
+<p title="Turtles are fun-this is a tooltip">Hi! Mouse over the paragraph! Turtles!</p>
+<hr>
+<h2>Here are more Headings of different sizes!</h2>
+<h3>I'm smaller than h2!</h3>
+<h4 style="font-size:100px;">But I'm big!</h4>
+<p>I'm not a turtle</p>
+<hr>
+<p>Or am I?</p>
+<hr>
+<pre>
+Space Turtles
+In the velvet tapestry of night,
+Where stars like whispers softly gleam,
+The space turtles drift in gentle flight,
+Sailing through the cosmic dream.
+
+With shells of crystal, green, and gold,
+They glide on solar breezes' sigh,
+Across the universe, bold and old,
+Beneath the twinkling, silent sky.
+
+Their eyes, like galaxies so deep,
+Reflect the stardust's mystic dance,
+They wander where the comets sweep,
+In the celestial expanse.
+
+Among the planets, they take pause,
+On moons of sapphire, dust, and fire,
+Their journey follows nature’s laws,
+In paths both grand and to inspire.
+
+In darkened voids, they gently roam,
+Past nebulae and ancient light,
+With every star, they find a home,
+And every orbit brings new sight.
+
+Their tales are written in the stars,
+Of wisdom, wonder, timeless grace,
+They travel worlds both near and far,
+Eternally, in space’s embrace.
+
+So when you gaze upon the night,
+And see the stars’ enchanting glow,
+Think of the turtles, shining bright,
+In the cosmic seas, they wander slow.
+</pre>
+<img src
+</body>
+</html>
