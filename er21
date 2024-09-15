@@ -13,7 +13,7 @@ Stars, on the other hand, sparkle from the vast expanse of the cosmos, represent
 
 Imagine a turtle looking up at the night sky, its eyes reflecting the twinkling stars above. In that moment, the turtle's calm, grounded nature meets the stars' boundless, shimmering beauty. It's a reminder that no matter how small we might feel in the grand scheme of things, both our steady journey through life and the vast, distant dreams we chase are part of a much larger, interconnected whole.</p>
 <hr>
-<p title="Turtles are fun-this is a tooltip">Hi! Mouse over the paragraph! Turtles!</p>
+<p title="Turtles are fun-this is a tooltip">Hi! Hover your mouse over this paragraph! Turtles!</p>
 <hr>
 <h2>Here are more Headings of different sizes!</h2>
 <h3>I'm smaller than h2!</h3>
@@ -59,6 +59,7 @@ And see the stars’ enchanting glow,
 Think of the turtles, shining bright,
 In the cosmic seas, they wander slow.
 </pre>
-<img src
+<img src="spaceturtles" alt="Space Turtles" Width="1000" Height="1241">
+
 </body>
 </html>
